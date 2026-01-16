@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=youssefaibi2018-code&color=green)
 # Hi There! 👋 I'm Youssef Aibi
 
 ### 🚀 Aspiring Oracle DBA | SQL Specialist | IT Student
