@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/Data_Migration_Specialist-🚀-red" />
   </p>
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=youssefaibi2018-code&show_icons=true&theme=radical&hide_border=true&title_color=F80000&icon_color=F80000&bg_color=0D1117" alt="Youssef Stats" />
-  </p>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefaibi2018-code&show_icons=true&theme=radical&hide_border=true&title_color=F80000&icon_color=F80000&bg_color=0D1117" alt="Youssef Stats" />
+</p>
 </div>
 
 ---
