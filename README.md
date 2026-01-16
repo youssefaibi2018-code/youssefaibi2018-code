@@ -1,26 +1,47 @@
 # Hi There! 👋 I'm Youssef Aibi
 
-### 🚀 Aspiring Oracle DBA | SQL Specialist | IT Student
-Law graduate turned DBA, specializing in cleaning and migrating legacy data (CSV/Excel) to Oracle 19c. Currently focusing on building secure and high-performance database architectures at SUPEMIR
+### 🛡️ Junior Oracle DBA | ⚖️ Law Graduate | 🚀 Data Migration Specialist
 
-- 🔭 **Current Project:** [Oracle DBA: Multitenant Migration](https://github.com/youssefaibi2018-code/Oracle_DBA_Project)
-- 🌱 **Learning:** Backup & Recovery (RMAN) and Oracle Cloud Infrastructure (OCI).
-- 💬 **Ask me about:** SQL, Oracle PDBs, and Database Management.
-- 📫 **LinkedIn:** [youssef-aibi-99bb39305](https://www.linkedin.com/in/youssef-aibi-99bb39305)
+Engaged in a professional **Oracle Database Administration** journey, I leverage my background in **Private Law** and extensive experience in **Operations & Supervision** to build secure, rigorous, and high-performance database environments. 
+
+I specialize in **Multitenant Architecture**, **RMAN Backup/Recovery**, and **Data Cleansing (ETL)**, ensuring data integrity and operational continuity.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🔭 Academic Projects
+- **[Atlas Market Migration](https://github.com/youssefaibi2018-code/Atlas_Market):** Critical migration of retail legacy systems to Oracle Multitenant, focusing on performance and continuity.
+- **[GYM Project - Security & Cleansing](https://github.com/youssefaibi2018-code/Oracle_DBA_Project):** Implementation of CSV data ingestion processes, data reliability, and access security.
 
-### 🧠 Soft Skills
-- ⚖️ **Analytical Thinking:** Leveraging my Law background for rigorous data auditing and logical structuring.
-- 🛡️ **Data Integrity Mindset:** Committed to ensuring 100% accuracy during complex data migrations (ETL).
-- 🎯 **Problem Solving:** Skilled in identifying and resolving corrupted data patterns in legacy systems.
-- 🤝 **Collaboration:** Experienced in working within technical teams to deliver secure database solutions.
+---
 
-### 📊 GitHub Stats
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefaibi2018-code&show_icons=true&theme=radical&count_private=true)
+### 🛠️ Technical Tech Stack
+- **Databases:** Oracle (Architecture Multitenant, Migration, RMAN), PL/SQL, SQL.
+- **Tools:** Oracle Enterprise Manager (OEM), SQL Developer.
+- **Web & Infrastructure:** HTML5/CSS3, Linux Admin, Git/GitHub.
+
+---
+
+### 🧠 Competencies & Soft Skills
+- **Analytical Thinking:** Leveraging legal rigor for database auditing and complex problem-solving.
+- **Supervision & Leadership:** Proven track record in coordinating complex daily tasks and team management.
+- **Operational Excellence:** High focus on service quality and data reliability.
+
+---
+
+### 📜 Certifications
+- ✅ **SQL & AI for SQL:** Codecademy (Dec 2025).
+- ✅ **HTML & CSS:** Codecademy (Jan 2026).
+- ✅ **English Level 5 (Intermediate):** ALC (Dec 2025).
+
+---
+
+### 📊 GitHub Activity
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefaibi2018-code&show_icons=true&theme=radical)
+
+### 📈 Contribution Graph
+![Youssef's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefaibi2018-code&theme=github-compact)
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-aibi-99bb39305)
