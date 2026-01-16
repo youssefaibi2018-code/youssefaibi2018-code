@@ -17,4 +17,4 @@ I am an IT student focusing on Oracle Multitenant Architecture, Database Adminis
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📊 GitHub Stats
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefaibi2018-code&show_icons=true&theme=radical)
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefaibi2018-code&show_icons=true&theme=radical&count_private=true)
