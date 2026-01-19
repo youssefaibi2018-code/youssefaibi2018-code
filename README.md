@@ -75,7 +75,7 @@ Engaged in a professional Oracle Database Administration journey within the JobI
 
 ## Let's Connect
 <p align="center">
-<a href="mailto:youssef.aibi2018@gmail">
+<a href="mailto:youssef.aibi2018@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/youssef-aibi-99bb39305/" target="blank">
