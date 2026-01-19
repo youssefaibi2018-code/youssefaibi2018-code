@@ -1,4 +1,4 @@
-# Hi There! I'm Youssef Aibi 👋
+# Youssef Aibi
 
 <p align="center">
   <img src="https://img.shields.io/badge/JobInTech-Program-blue?style=flat-square"> 
@@ -17,12 +17,12 @@
 
 ---
 
-### 📖 About Me
-Engaged in a professional **Oracle Database Administration** journey within the **JobInTech** program at **SUPEMIR**. I leverage my background in **Private Law** and extensive experience in **Operations & Supervision** to build secure and high performance database environments. I specialize in **Multitenant Architecture**, **RMAN Backup/Recovery**, and **Data Cleansing (ETL)**.
+## About Me
+Engaged in a professional Oracle Database Administration journey within the JobInTech program at SUPEMIR. I leverage my background in Private Law and extensive experience in Operations & Supervision to build secure and high performance database environments. I specialize in Multitenant Architecture, RMAN Backup/Recovery, and Data Cleansing (ETL).
 
 ---
 
-### 🛠️ Technical Tech Stack
+## Technical Tech Stack
 
 <table align="center">
   <tr>
@@ -47,39 +47,41 @@ Engaged in a professional **Oracle Database Administration** journey within the 
 
 ---
 
-### 🚀 Currently Learning
-* ⚡ **Oracle RAC (Real Application Clusters):** High Availability & Grid Infrastructure.
+## Academic & Research Projects
+* **Private Law Research:** Comparative study between Maliki Jurisprudence and the Moroccan Family Code (Article 231).
+* **Atlas Market Migration:** Critical migration of retail legacy systems to Oracle Multitenant.
+* **GYM Project:** Implementation of CSV data ingestion, security protocols, and data reliability.
 
 ---
 
-### 📜 Certifications (2025 - 2026)
-* 🎓 **SQL & AI for SQL** — *Codecademy* (Dec 2025)
-* 🎓 **HTML & CSS** — *Codecademy* (Jan 2026)
-* 🎓 **English Level 5 (Intermediate)** — *American Language Center* (Dec 2025)
+## Certifications (2025 - 2026)
+* SQL & AI for SQL — Codecademy (Dec 2025)
+* HTML & CSS — Codecademy (Jan 2026)
+* English Level 5 (Intermediate) — American Language Center (Dec 2025)
 
 ---
 
-### 📂 Academic Projects
-* 🔹 **Atlas Market Migration:** Critical migration of retail legacy systems to Oracle Multitenant.
-* 🔹 **GYM Project - Security & Cleansing:** Implementation of CSV data ingestion and data reliability.
+## Competencies & Soft Skills
+* Analytical Thinking: Leveraging legal rigor for database auditing and logic.
+* Data Integrity: Committed to 100% accuracy during ETL processes.
+* Supervision & Leadership: Experience in managing complex daily tasks and team coordination.
 
 ---
 
-### 🧠 Competencies & Soft Skills
-* 💡 **Analytical Thinking:** Leveraging legal rigor for database auditing.
-* 🛡️ **Data Integrity:** Committed to 100% accuracy during ETL processes.
-* 🤝 **Supervision & Leadership:** Experience in managing complex daily tasks and team coordination.
-
----
-
-### 📈 Contribution Activity
+## Contribution Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=youssefaibi2018-code&theme=react-dark)
 
 ---
 
-### 🌐 Let's Connect
+## Let's Connect
 <p align="center">
+<a href="mailto:youssef.aibi2018@gmail">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 <a href="https://www.linkedin.com/in/youssef-aibi-99bb39305/" target="blank">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/youssef_aibi?igsh=d3J1MGpleDA0YmUz&utm_source=qr">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </p>
