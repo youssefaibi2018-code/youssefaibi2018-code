@@ -74,14 +74,14 @@ Engaged in a professional Oracle Database Administration journey within the JobI
 ---
 
 ## Let's Connect
-<p align="center">
-<a href="mailto:youssef.aibi2018@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/youssef-aibi-99bb39305/" target="blank">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/youssef_aibi?igsh=d3J1MGpleDA0YmUz&utm_source=qr">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-</p>
+<div align="left">
+  <a href="mailto:youssef.aibi2018@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/youssef-aibi-99bb39305/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/youssef_aibi?igsh=d3J1MGpleDA0YmUz&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
