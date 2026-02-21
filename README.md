@@ -31,7 +31,8 @@ Engaged in a professional Oracle Database Administration journey within the JobI
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/ORACLE_19C-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/ORACLE_19C/21C-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle_RAC-F80000?style=for-the-badge&logo=oracle&logoColor=white">
       <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge">
       <img src="https://img.shields.io/badge/RMAN-FF8C00?style=for-the-badge">
     </td>
@@ -39,6 +40,8 @@ Engaged in a professional Oracle Database Administration journey within the JobI
       <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black">
       <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+      <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white">
       <img src="https://img.shields.io/badge/SQL_Developer-4479A1?style=for-the-badge&logo=oracle&logoColor=white">
       <img src="https://img.shields.io/badge/WinSCP-00A4EF?style=for-the-badge&logo=filezilla&logoColor=white">
     </td>
