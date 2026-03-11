@@ -28,26 +28,33 @@ I leverage my unique background in **Private Law** and extensive experience in *
 
 <table align="center">
   <tr>
-    <th width="33%">Databases & Architecture</th>
-    <th width="33%">Infrastructure & Tools</th>
-    <th width="33%">Languages & Scripting</th>
+    <th width="33%">🗄️ Database Administration</th>
+    <th width="33%">🔧 Tools & Environment</th>
+    <th width="33%">💻 Languages & Web</th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/ORACLE_19C/21C-F80000?style=flat-square&logo=oracle&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Oracle_RAC-F80000?style=flat-square&logo=oracle&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/RMAN-FF8C00?style=flat-square">
+      <img src="https://img.shields.io/badge/Oracle_Multitenant-F80000?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/RMAN_Backup/Recovery-FF8C00?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/Performance_Tuning-F80000?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/Security_Protocols-F80000?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/Data_Migration-E34C26?style=flat-square">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"><br>
-      <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/LINUX/UNIX-FCC624?style=flat-square&logo=linux&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/GIT/GITHUB-F05032?style=flat-square&logo=github&logoColor=white"><br>
       <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+      <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/SQL_DEVELOPER-4479A1?style=flat-square&logo=oracle&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/WINSCP-00A4EF?style=flat-square">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square"><br>
       <img src="https://img.shields.io/badge/PL/SQL-F80000?style=flat-square"><br>
       <img src="https://img.shields.io/badge/BASH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/HTML-E34C26?style=flat-square&logo=html5&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"><br>
       <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white">
     </td>
   </tr>
