@@ -28,35 +28,30 @@ I leverage my unique background in **Private Law** and extensive experience in *
 
 <table align="center">
   <tr>
-    <th width="50%">Databases & Architecture</th>
-    <th width="50%">Infrastructure & Tools</th>
+    <th width="33%">Databases & Architecture</th>
+    <th width="33%">Infrastructure & Tools</th>
+    <th width="33%">Languages & Scripting</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/ORACLE_19C/21C-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-      <img src="https://img.shields.io/badge/Oracle_RAC-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-      <img src="https://img.shields.io/badge/RMAN-FF8C00?style=for-the-badge">
+      <img src="https://img.shields.io/badge/ORACLE_19C/21C-F80000?style=flat-square&logo=oracle&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Oracle_RAC-F80000?style=flat-square&logo=oracle&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/RMAN-FF8C00?style=flat-square">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-      <img src="https://img.shields.io/badge/SQL_Developer-4479A1?style=for-the-badge&logo=oracle&logoColor=white">
-      <img src="https://img.shields.io/badge/WinSCP-00A4EF?style=for-the-badge&logo=filezilla&logoColor=white">
+      <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/PL/SQL-F80000?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/BASH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white">
     </td>
   </tr>
 </table>
-
-### 💻 Languages & Scripting
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
 
 ---
 
@@ -94,6 +89,9 @@ I leverage my unique background in **Private Law** and extensive experience in *
   </a>
   <a href="https://www.instagram.com/youssef_aibi?igsh=d3J1MGpleDA0YmUz&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wa.me/212619278473">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="mailto:youssef.aibi2018@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
