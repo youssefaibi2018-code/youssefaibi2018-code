@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle_DBA-00758F?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Professional-8E44AD?style=flat-square">
   <img src="https://img.shields.io/badge/Law_Graduate-E68A00?style=flat-square">
   <img src="https://img.shields.io/badge/Data_Migration_Specialist-E34C26?style=flat-square">
 </p>
@@ -18,9 +19,9 @@
 ---
 
 ## 🚀 About Me
-**Certified Oracle Database Professional.** Having successfully completed my intensive journey in **Oracle Database Administration** within the **JobInTech** program at **SUPEMIR**, I now focus on building secure and high-performance database environments. 
+**Certified Oracle Database & AI Professional.** Having successfully completed my intensive journey in **Oracle Database Administration** within the **JobInTech** program at **SUPEMIR**, I now focus on building secure, high-performance, and AI-driven database environments. 
 
-I leverage my unique background in **Private Law** and extensive experience in **Operations & Supervision** to ensure data compliance and operational excellence. I specialize in Multitenant Architecture, RMAN Backup/Recovery, and Data Cleansing (ETL).
+I leverage my unique background in **Private Law** and extensive experience in **Operations & Supervision** to ensure data compliance, AI ethics, and operational excellence. I specialize in Multitenant Architecture, RMAN Backup/Recovery, and AI-integrated data solutions.
 
 ---
 
@@ -28,34 +29,34 @@ I leverage my unique background in **Private Law** and extensive experience in *
 
 <table align="center">
   <tr>
-    <th width="33%">🗄️ Database Administration</th>
+    <th width="33%">🗄️ Database & AI</th>
     <th width="33%">🔧 Tools & Environment</th>
-    <th width="33%">💻 Languages & Web</th>
+    <th width="33%">💻 Languages & AI Tech</th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/ORACLE_19C/21C-F80000?style=flat-square&logo=oracle&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Oracle_Multitenant-F80000?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/RMAN_Backup/Recovery-FF8C00?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/Performance_Tuning-F80000?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/Security_Protocols-F80000?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/Data_Migration-E34C26?style=flat-square">
+      <img src="https://img.shields.io/badge/Artificial_Intelligence-8E44AD?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/Machine_Learning-3498DB?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/Deep_Learning-2C3E50?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/NLP_%26_Computer_Vision-1ABC9C?style=flat-square">
     </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/IBM_Watson_Studio-052FAD?style=flat-square&logo=ibm&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"><br>
       <img src="https://img.shields.io/badge/LINUX/UNIX-FCC624?style=flat-square&logo=linux&logoColor=black"><br>
       <img src="https://img.shields.io/badge/GIT/GITHUB-F05032?style=flat-square&logo=github&logoColor=white"><br>
       <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/SQL_DEVELOPER-4479A1?style=flat-square&logo=oracle&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/WINSCP-00A4EF?style=flat-square">
+      <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/PL/SQL-F80000?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/SQL/PLSQL-F80000?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/Conversational_AI-6C5CE7?style=flat-square"><br>
       <img src="https://img.shields.io/badge/BASH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/HTML-E34C26?style=flat-square&logo=html5&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/AutoAI-052FAD?style=flat-square">
     </td>
   </tr>
 </table>
@@ -70,17 +71,20 @@ I leverage my unique background in **Private Law** and extensive experience in *
 ---
 
 ## 📜 Certifications (2025 - 2026)
+* **IBM Artificial Intelligence Fundamentals** — IBM SkillsBuild (Mar 2026)
 * **Oracle Database Administration Certified** — JobInTech / SUPEMIR (2026)
-* SQL & AI for SQL — Codecademy (Dec 2025)
-* HTML & CSS — Codecademy (Jan 2026)
-* English Level 5 (Intermediate) — American Language Center (Dec 2025)
+* **SQL & AI for SQL** — Codecademy (Dec 2025)
+* **HTML & CSS** — Codecademy (Jan 2026)
+* **English Level 5 (Intermediate)** — American Language Center (Dec 2025)
 
 ---
 
 ## 🧠 Competencies & Soft Skills
+* **AI Ethics & Trustworthy AI:** Ensuring responsible deployment of intelligent systems.
 * **Analytical Thinking:** Leveraging legal rigor for database auditing and logic.
-* **Data Integrity:** Committed to 100% accuracy during ETL processes.
-* **Supervision & Leadership:** Experience in managing complex daily tasks and team coordination.
+* **Data Integrity:** Committed to 100% accuracy during ETL and AI training processes.
+* **Leadership:** Experience in supervision, team coordination, and managing complex tasks.
+* **Legal Rigor:** Applying precise legal methodologies to technical compliance.
 
 ---
 
