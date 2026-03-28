@@ -7,9 +7,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle_DBA-00758F?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Data_Analyst-Analytics-3498DB?style=flat-square">
   <img src="https://img.shields.io/badge/AI_Professional-8E44AD?style=flat-square">
   <img src="https://img.shields.io/badge/Law_Graduate-E68A00?style=flat-square">
-  <img src="https://img.shields.io/badge/Data_Migration_Specialist-E34C26?style=flat-square">
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 ---
 
 ## 🚀 About Me
-**Certified Oracle Database & AI Professional.** Having successfully completed my intensive journey in **Oracle Database Administration** within the **JobInTech** program at **SUPEMIR**, I now focus on building secure, high-performance, and AI-driven database environments. 
+**Certified Oracle Database & Data Analysis Professional.** Having successfully completed my intensive journey in **Oracle Database Administration** within the **JobInTech** program at **SUPEMIR**, I now focus on building secure, high-performance, and data-driven solutions. 
 
-I leverage my unique background in **Private Law** and extensive experience in **Operations & Supervision** to ensure data compliance, AI ethics, and operational excellence. I specialize in Multitenant Architecture, RMAN Backup/Recovery, and AI-integrated data solutions.
+I leverage my unique background in **Private Law** to ensure data compliance and analytical rigor. I specialize in **Oracle Multitenant Architecture**, **Advanced SQL Data Analysis**, and **AI-integrated systems**.
 
 ---
 
@@ -29,18 +29,18 @@ I leverage my unique background in **Private Law** and extensive experience in *
 
 <table align="center">
   <tr>
-    <th width="33%">🗄️ Database & AI</th>
+    <th width="33%">🗄️ Database & Analysis</th>
     <th width="33%">🔧 Tools & Environment</th>
     <th width="33%">💻 Languages & AI Tech</th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/ORACLE_19C/21C-F80000?style=flat-square&logo=oracle&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Data_Analysis-3498DB?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/Relational_Databases-E34C26?style=flat-square"><br>
       <img src="https://img.shields.io/badge/Oracle_Multitenant-F80000?style=flat-square"><br>
       <img src="https://img.shields.io/badge/Artificial_Intelligence-8E44AD?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/Machine_Learning-3498DB?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/Deep_Learning-2C3E50?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/NLP_%26_Computer_Vision-1ABC9C?style=flat-square">
+      <img src="https://img.shields.io/badge/Machine_Learning-3498DB?style=flat-square">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/IBM_Watson_Studio-052FAD?style=flat-square&logo=ibm&logoColor=white"><br>
@@ -52,14 +52,23 @@ I leverage my unique background in **Private Law** and extensive experience in *
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/SQL/PLSQL-F80000?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/Conversational_AI-6C5CE7?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/Data_Analytics-3498DB?style=flat-square"><br>
       <img src="https://img.shields.io/badge/BASH-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"><br>
       <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat-square"><br>
       <img src="https://img.shields.io/badge/AutoAI-052FAD?style=flat-square">
     </td>
   </tr>
 </table>
+
+---
+
+## 📜 Certifications (2025 - 2026)
+* **Analyze Data with SQL Skill Path** — Codecademy (Mar 2026)
+* **IBM Artificial Intelligence Fundamentals** — IBM SkillsBuild (Mar 2026)
+* **Oracle Database Administration Certified** — JobInTech / SUPEMIR (2026)
+* **HTML & CSS** — Codecademy (Jan 2026)
+* **English Level 5 (Intermediate)** — American Language Center (Dec 2025)
 
 ---
 
@@ -70,21 +79,11 @@ I leverage my unique background in **Private Law** and extensive experience in *
 
 ---
 
-## 📜 Certifications (2025 - 2026)
-* **IBM Artificial Intelligence Fundamentals** — IBM SkillsBuild (Mar 2026)
-* **Oracle Database Administration Certified** — JobInTech / SUPEMIR (2026)
-* **SQL & AI for SQL** — Codecademy (Dec 2025)
-* **HTML & CSS** — Codecademy (Jan 2026)
-* **English Level 5 (Intermediate)** — American Language Center (Dec 2025)
-
----
-
 ## 🧠 Competencies & Soft Skills
-* **AI Ethics & Trustworthy AI:** Ensuring responsible deployment of intelligent systems.
 * **Analytical Thinking:** Leveraging legal rigor for database auditing and logic.
 * **Data Integrity:** Committed to 100% accuracy during ETL and AI training processes.
+* **AI Ethics & Trustworthy AI:** Ensuring responsible deployment of intelligent systems.
 * **Leadership:** Experience in supervision, team coordination, and managing complex tasks.
-* **Legal Rigor:** Applying precise legal methodologies to technical compliance.
 
 ---
 
